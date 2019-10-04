@@ -1,0 +1,16 @@
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/projet.net.deps.json
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/projet.net.runtimeconfig.json
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/projet.net.runtimeconfig.dev.json
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/projet.net.dll
+/Users/lea/Projects/projet.net/projet.net/bin/Debug/netcoreapp2.1/projet.net.pdb
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.RazorAssemblyInfo.cache
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.RazorAssemblyInfo.cs
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.AssemblyInfoInputs.cache
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.AssemblyInfo.cs
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.RazorTargetAssemblyInfo.cache
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.dll
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.pdb
+/Users/lea/Projects/projet.net/projet.net/obj/Debug/netcoreapp2.1/projet.net.csprojAssemblyReference.cache
